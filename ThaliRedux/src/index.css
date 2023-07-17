@@ -1,0 +1,10 @@
+body {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(0, 204, 255),
+    rgb(177, 246, 255)
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 800px;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Masala papad",
+    "img": "https://static.toiimg.com/thumb/53910008.cms?imgsize=114416&width=800&height=800",
+    "price": "15"
+  },
+  {
+    "id": "2",
+    "name": "Chapati",
+    "img": "https://spicecravings.com/wp-content/uploads/2020/12/Roti-Featured-1.jpg",
+    "price": "18"
+  },
+  {
+    "id": "3",
+    "name": "Paneer Dish",
+    "img": "https://www.cookwithkushi.com/wp-content/uploads/2022/08/restaurant_style_paneer_makhani_00.jpg",
+    "price": "200"
+  },
+  {
+    "id": "4",
+    "name": "Kaju masala",
+    "img": "https://i0.wp.com/cookingfromheart.com/wp-content/uploads/2020/10/Kaju-Masala-1.jpg?resize=720%2C540&ssl=1",
+    "price": "220"
+  },
+  {
+    "id": "5",
+    "name": "Daal",
+    "img": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Dal-Tadka-500x500.jpg",
+    "price": "170"
+  },
+  {
+    "id": "6",
+    "name": "Pickle",
+    "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/01/mango-pickle-recipe.jpg",
+    "price": "50"
+  },
+  {
+    "id": "7",
+    "name": "Curd",
+    "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/05/how-to-make-curd-recipe-1.jpg",
+    "price": "60"
+  },
+  {
+    "id": "8",
+    "name": "Sweet",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg/1200px-Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg",
+    "price": "80"
+  }
+]

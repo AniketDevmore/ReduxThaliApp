@@ -1,0 +1,69 @@
+#cartThaliUl,
+#cartThaliLi {
+  list-style: none;
+}
+#cartThalDiv {
+  background-color: rgba(241, 157, 60, 0.753);
+  width: fit-content;
+  margin: auto;
+  border-radius: 22px;
+}
+#cartThaliUl {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+}
+#cartThaliLi {
+  position: relative;
+}
+#cartThaliBtn {
+  position: absolute;
+  z-index: 1;
+  right: 10px;
+  top: 10px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: rgb(161, 233, 255);
+  background-color: rgb(2, 30, 54);
+  padding: 2px 7px;
+  border-radius: 100px;
+}
+#cartThaliImg {
+  height: 130px;
+  width: 130px;
+  padding: 10px;
+  border-radius: 22px;
+}
+
+#thaliUl,
+#thaliLi {
+  list-style: none;
+}
+#thaliUl {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#thaliLi {
+  background-image: radial-gradient(rgb(255, 198, 93), rgb(255, 170, 170));
+  margin: 18px;
+  padding: 30px;
+  color: rgb(95, 3, 3);
+}
+#thaliIteam {
+  color: rgb(68, 1, 1);
+  font-size: 1.5rem;
+  font-weight: 900;
+  text-shadow: 2px 2px 2px rgb(255, 254, 254);
+}
+#thaliImg {
+  height: 130px;
+  width: 130px;
+}
+#thaliPrice {
+  font-size: 1.3rem;
+  margin-top: 20px;
+}

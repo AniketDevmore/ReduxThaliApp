@@ -1,0 +1,22 @@
+#checkThead {
+  color: rgb(12, 2, 58);
+  font-size: 2rem;
+  text-shadow: 2px 2px 2px gray;
+}
+#checkTd {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#checkout {
+  text-align: right;
+  max-width: 300px;
+  margin: auto 0 auto auto;
+}
+
+@media screen and (max-width: 1000px) {
+  #checkTd {
+    display: block;
+    margin: auto;
+  }
+}

@@ -1,0 +1,52 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#header {
+  font-weight: 900;
+  font-size: 2.5rem;
+  width: 100%;
+  color: rgb(155, 248, 248);
+  text-shadow: 4px 3px 3px gray;
+  background-image: radial-gradient(rgb(252, 138, 138), rgb(255, 255, 173));
+  padding: 20px;
+  margin-bottom: 0;
+}
+#navUl,
+#navLi {
+  list-style: none;
+}
+#navUl {
+  padding-right: 20px;
+  background-color: rgb(80, 61, 33);
+  text-align: right;
+}
+#navLi {
+  padding: 15px;
+}
+#thaliLink {
+  color: rgb(19, 2, 2);
+  text-decoration: none;
+  padding: 8px;
+  font-weight: 600;
+  border-radius: 9px;
+  background-image: radial-gradient(rgb(136, 244, 252), rgb(188, 255, 182));
+  position: relative;
+}
+#notify {
+  position: absolute;
+  top: -9px;
+  left: 50px;
+  background-color: rgb(240, 11, 11);
+  padding: 0 5px;
+  border-radius: 35px;
+  color: rgb(0, 0, 0);
+  margin-left: 5px;
+  border-style: none;
+}
+
+#thaliLink:hover {
+  background-image: radial-gradient(rgb(9, 234, 250), rgb(18, 168, 5));
+}
